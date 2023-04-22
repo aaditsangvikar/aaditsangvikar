@@ -16,8 +16,8 @@ Languges:
 </p>
 
  
-Projects:
- - Iniato - Business Startup
+Currently Working On:
+ - Perceptify - Startup Evaluation Company
  - Fairview High School Robotics
  
 Interests:
